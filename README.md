@@ -5,4 +5,5 @@
 <br>
 
  - Bolo de Morango 🍰🍓
+ - Bolo de Cenoura 🎂🥕
  - Strogonoff de Frango 🥣🐔
